@@ -17,7 +17,9 @@ Using [Mask-RCNN](https://github.com/matterport/Mask_RCNN) to solve Where's Wald
 
 ## Data
 
-Training and validation data sets used for this project are put in [data](data/) folder. For custom datasets, use [via-via](http://www.robots.ox.ac.uk/~vgg/software/via/via.html) tool to annotate.
+Training and validation data sets used for this project are located in [data](data/) folder. 
+
+For custom datasets, use [via-via](http://www.robots.ox.ac.uk/~vgg/software/via/via.html) tool to annotate.
 
 ## Running 
 
