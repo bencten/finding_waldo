@@ -55,4 +55,6 @@ python predict.py models/logs/waldo20180612T1628/mask_rcnn_waldo_0030.h5 data/va
 ###References
 
 Many thanks to for the various repositories and Medium articles that is inspiring this work. 
+
+1. Recent work [deep-waldo] (https://github.com/alseambusher/deepwaldo)
  
